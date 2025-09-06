@@ -29,6 +29,7 @@ python RUN_THIS.py
 dotnet build
 ```
 
+⭐ Consider starring if you're interested in following this project's development.
 
 ## License
 
