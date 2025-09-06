@@ -2,6 +2,19 @@
 <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg">  
 </div>
 
+**One question: "Does it make the game better?"**
+
+A fork for builders - whether you're crafting systems in C# or content in YAML.
+
+### Why Redline Exists
+- **Yes by default** - Good ideas with rough implementation get help, not rejection
+- **Push limits** - Testing what upstream considers "too risky"
+- **Merit only** - PRs judged only on the value they bring
+- **Systems focus** - Building for emergent gameplay and novel player experiences
+
+### Contributing
+All PRs welcome. If you're improving the game, you belong here.
+
 ## Building
 
 ```shell
@@ -15,6 +28,7 @@ python RUN_THIS.py
 # Compile the solution:
 dotnet build
 ```
+
 
 ## License
 
