@@ -4,6 +4,10 @@
 
 **One question: "Does it make the game better?"**
 
+> [!IMPORTANT]
+> **redline** — *noun*  
+> a recommended safety limit; the fastest, farthest, or highest point or degree considered safe.
+
 A fork for builders - whether you're crafting systems in C# or content in YAML.
 
 ### Why Redline Exists
