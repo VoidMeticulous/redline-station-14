@@ -298,6 +298,7 @@ public sealed class AirAlarmSystem : EntitySystem
             }
 
             _adminLogger.Add(LogType.AtmosDeviceSetting, LogImpact.Medium, $"{ToPrettyString(args.Actor)} changed {ToPrettyString(uid)} mode to {args.Mode}");
+            component.AutoMode = false; // setting a mode manually exits auto mode
             SetMode(uid, addr, args.Mode, false);
         }
         else
